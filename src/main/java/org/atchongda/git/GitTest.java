@@ -10,5 +10,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("明哥真帅");
         System.out.println("明哥真帅,使用SSH push");
+        System.out.println("明哥真帅,使用SSH 远程pull");
     }
 }
